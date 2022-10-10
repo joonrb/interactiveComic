@@ -1,5 +1,5 @@
 let clickSound = new Audio("sound/mouseClickSound.mp3");
-let backgroundMusic = new Audio("sound/bmg.mp3:);
+let backgroundMusic = new Audio("sound/bmg.mp3");
 
 let dormClicked = document.getElementById("dorm");
 
