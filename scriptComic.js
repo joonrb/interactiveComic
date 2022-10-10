@@ -1,7 +1,11 @@
 let clickSound = new Audio("sound/mouseClickSound.mp3");
 let backgroundMusic = new Audio("sound/bgm.mp3");
 
-backgroundMusic.play();
+window.addEventListener("DOMContentLoaded", event => {
+  const audio = document.querySelector("backgroundMusic");
+  audio.volume = 0.2;
+  audio.play();
+});
 
 let dormClicked = document.getElementById("dorm");
 
