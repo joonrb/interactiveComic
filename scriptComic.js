@@ -1,6 +1,10 @@
+let clickSound = new Audio("mouseClickSound.mp3");
+
+
 let dormClicked = document.getElementById("dorm");
 
 dormClicked.addEventListener("click", ()=>{
+    clickSound.play();
     if(document.getElementById("dorm_m").style.display == "none")
         document.getElementById("dorm_m").style.display = "block";
     else
@@ -10,6 +14,7 @@ dormClicked.addEventListener("click", ()=>{
 let skipClicked = document.getElementById("skip");
 
 skipClicked.addEventListener("click", ()=>{
+    clickSound.play();
     if(document.getElementById("skip_m").style.display == "none")
         document.getElementById("skip_m").style.display = "block";
     else
@@ -19,6 +24,7 @@ skipClicked.addEventListener("click", ()=>{
 let waitFriendClicked = document.getElementById("waitfriend");
 
 waitFriendClicked.addEventListener("click", ()=>{
+    clickSound.play();
     if(document.getElementById("waitfriend_m").style.display == "none")
         document.getElementById("waitfriend_m").style.display = "block";
     else
@@ -28,6 +34,7 @@ waitFriendClicked.addEventListener("click", ()=>{
 let eatAloneClicked = document.getElementById("eatalone");
 
 eatAloneClicked.addEventListener("click", ()=>{
+    clickSound.play();
     if(document.getElementById("eatalone_m").style.display == "none")
         document.getElementById("eatalone_m").style.display = "block";
     else
@@ -37,6 +44,7 @@ eatAloneClicked.addEventListener("click", ()=>{
 let partyClicked = document.getElementById("party");
 
 partyClicked.addEventListener("click", ()=>{
+    clickSound.play();
     if(document.getElementById("party_m").style.display == "none")
         document.getElementById("party_m").style.display = "block";
     else
@@ -46,6 +54,7 @@ partyClicked.addEventListener("click", ()=>{
 let studyClicked = document.getElementById("study");
 
 studyClicked.addEventListener("click", ()=>{
+    clickSound.play();
     if(document.getElementById("study_m").style.display == "none")
         document.getElementById("study_m").style.display = "block";
     else
@@ -65,6 +74,7 @@ coffeeClicked.addEventListener("click", ()=>{
 let dateClicked = document.getElementById("date_night");
 
 dateClicked.addEventListener("click", ()=>{
+    clickSound.play();
     if(document.getElementById("datenightbubble").style.display == "none")
         document.getElementById("datenightbubble").style.display = "block";
     else
@@ -74,6 +84,7 @@ dateClicked.addEventListener("click", ()=>{
 let barahaClicked = document.getElementById("fun_baraha");
 
 barahaClicked.addEventListener("click", ()=>{
+    clickSound.play();
     if(document.getElementById("funbarahabubble").style.display == "none")
         document.getElementById("funbarahabubble").style.display = "block";
     else
@@ -83,6 +94,7 @@ barahaClicked.addEventListener("click", ()=>{
 let selfCareClicked = document.getElementById("selfcare_workout");
 
 selfCareClicked.addEventListener("click", ()=>{
+    clickSound.play();
     if(document.getElementById("selfcarebubble").style.display == "none")
         document.getElementById("selfcarebubble").style.display = "block";
     else
@@ -92,8 +104,19 @@ selfCareClicked.addEventListener("click", ()=>{
 let studySit3Clicked = document.getElementById("studySit3");
 
 studySit3Clicked.addEventListener("click", ()=>{
+    clickSound.play();
     if(document.getElementById("studybubble").style.display == "none")
         document.getElementById("studybubble").style.display = "block";
     else
         document.getElementById("studybubble").style.display = "none";
+})
+
+let exitClicked = document.getElementById("Exit");
+
+exitClicked.addEventListener("click", ()=>{
+    clickSound.play();
+    document.getElementById("Result").style.display = "block";
+    document.getElementById("Exit").style.display = "none";   
+    document.getElementById("exitPrompt").style.display = "none";
+    document.getElementById("Thought").style.display = "none";
 })
