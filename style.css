@@ -1,3 +1,8 @@
+.body {
+    overflow-x:hidden;
+}
+
+
 .title{
     background-color: purple;
     text-align: center;
@@ -35,7 +40,7 @@
 }
 
 .divFirstSlide {
-    padding-top: 13px;
+    padding-top: 40px;
     width: 1366px;
     height: 768px;
 }
@@ -45,11 +50,12 @@
     height:100%;
 }
 .divSecondSlide {
-    padding-top: 115px;
+    padding-top: 139px;
     width: 1500px;
     height: 650px;
 }
-.divThirdSlide{
+.divThirdSlide {
+    padding-top: 48px;
     width: 1500px;
     height: 650px;
 }
@@ -59,6 +65,13 @@
     width: 1500px;
     height: 650px;
 }
+
+.divFinalSlide {
+    padding-top: 127px;
+    width: 1500px;
+    height: 650px;
+}
+
 
 .MainCharacter{
     position: absolute;
