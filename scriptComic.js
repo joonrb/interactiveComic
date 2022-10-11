@@ -1,11 +1,5 @@
-let clickSound = new Audio("sound/mouseClickSound.mp3");
-let backgroundMusic = new Audio("sound/bgm.mp3");
+let clickSound = new Audio("mouseClickSound.mp3");
 
-window.addEventListener("DOMContentLoaded", event => {
-  const audio = document.querySelector("backgroundMusic");
-  audio.volume = 0.2;
-  audio.play();
-});
 
 let dormClicked = document.getElementById("dorm");
 
@@ -125,4 +119,62 @@ exitClicked.addEventListener("click", ()=>{
     document.getElementById("Exit").style.display = "none";   
     document.getElementById("exitPrompt").style.display = "none";
     document.getElementById("Thought").style.display = "none";
+})
+
+let top1Clicked = document.getElementById("top1");
+
+top1Clicked.addEventListener("click", ()=>{
+    clickSound.play();
+    document.getElementById("topSil").setAttribute("href", "top1.png");
+})
+
+let top2Clicked = document.getElementById("top2");
+
+top2Clicked.addEventListener("click", ()=>{
+    clickSound.play();
+    document.getElementById("topSil").setAttribute("href", "top2.png");
+})
+
+let top3Clicked = document.getElementById("top3");
+
+top3Clicked.addEventListener("click", ()=>{
+    clickSound.play();
+    document.getElementById("topSil").setAttribute("href", "top3.png");
+})
+
+let top4Clicked = document.getElementById("top4");
+
+top4Clicked.addEventListener("click", ()=>{
+    clickSound.play();
+    document.getElementById("topSil").setAttribute("href", "top4.png");
+})
+
+let bottom1Clicked = document.getElementById("bottom1");
+
+bottom1Clicked.addEventListener("click", ()=>{
+    clickSound.play();
+    document.getElementById("botSil").setAttribute("href", " bottom1.png");
+})
+
+let bottom2Clicked = document.getElementById("bottom2");
+
+bottom2Clicked.addEventListener("click", ()=>{
+    clickSound.play();
+    document.getElementById("botSil").setAttribute("href", "bottom2.png");
+})
+
+
+let bottom3Clicked = document.getElementById("bottom3");
+
+bottom3Clicked.addEventListener("click", ()=>{
+    clickSound.play();
+    document.getElementById("botSil").setAttribute("href", "bottom3.png");
+})
+
+
+let bottom4Clicked = document.getElementById("bottom4");
+
+bottom4Clicked.addEventListener("click", ()=>{
+    clickSound.play();
+    document.getElementById("botSil").setAttribute("href", "bottom4.png");
 })
