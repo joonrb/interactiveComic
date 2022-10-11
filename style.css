@@ -51,6 +51,18 @@
 .divIntroSlide {
     padding-top: 24px;
 }
+
+.instruction{
+    padding-left: 10%;
+    padding-bottom: 5%;
+    width: 900px;
+    height: 500px;
+}
+
+.ground{
+    padding-top:70px;
+    width:1119px;
+}
 .divFirstSlide {
     padding-top: 64px;
     width: 1366px;
