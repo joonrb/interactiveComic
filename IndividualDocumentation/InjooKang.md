@@ -2,6 +2,7 @@
 
 ## Project Description
 ## Process
+![moodboard1](InjooKangImages/injookang1.png)
 ## Reflection and Evaluation 
 Project Description: what is the project, what is the overall concept and theme, and what kind of experience you were striving to create.
 Process: How did you go about implementing the concept. Describe your role and what your contribution was.
