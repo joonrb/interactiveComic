@@ -17,7 +17,6 @@
 }
 
 .scenery{
-<<<<<<< HEAD
 
     align-self:center;
     border: 10px ridge grey;
@@ -26,13 +25,12 @@
     width: 1119px;
     overflow-x: scroll;
     overflow-y:hidden;
-=======
-    border: 1px solid black;
+
     height: 690px;
     width: 1119px;
     overflow-x: scroll;
     overflow-y: hidden;
->>>>>>> 709e11fde8bf8599b2092360ddf6aafdbea88a62
+
     display: flex;
     justify-content: flex-start;
     max-width: 100vw;
