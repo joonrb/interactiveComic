@@ -1,4 +1,5 @@
 let clickSound = new Audio("sound/mouseClickSound.mp3");
+let cheerSound = new Audio("sound/cheer.mp3");
 
 
 let dormClicked = document.getElementById("dorm");
@@ -115,6 +116,7 @@ let exitClicked = document.getElementById("Exit");
 
 exitClicked.addEventListener("click", ()=>{
     clickSound.play();
+    cheerSound.play();
     document.getElementById("Result").style.display = "block";
     document.getElementById("Exit").style.display = "none";   
     document.getElementById("exitPrompt").style.display = "none";
