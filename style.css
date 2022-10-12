@@ -16,6 +16,13 @@
     margin-bottom: 50px;
 }
 
+.audioSec{
+    justify-conten: center;
+}
+
+.bgmText{
+    font-family: "Comic Sans";
+
 .audioControl{
     margin: auto;
 }    
