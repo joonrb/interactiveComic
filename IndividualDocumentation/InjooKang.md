@@ -4,12 +4,15 @@ Have you ever wondered what is considered "normal" in NYUAD? Is it normal to eat
 
 ## Process
 ### Phase 1: Idea Development
-The design inspiration I had was a collage of different images that delivers eccentric and comical mood. Before the first group meeting, I created the following moodboards to illustrate the visual I had in mind. 
+The design inspiration I had was a collage of different images that delivers eccentric and comical mood. Before the first group meeting, I created the following moodboards to illustrate the visual I had in mind to other group members. 
 ![moodboard1](InjooKangImages/injookang1.png)
 ![moodboard2](InjooKangImages/injookang2.png)
 ![moodboard3](InjooKangImages/injookang3.png)
 
+After our first meeting, we decided to create a comic that could guide students' life in NYUAD in terms of time management and balancing. We all resonated with the idea that when we first came to college we all felt so confused in deciding what is normal and what is not. We wanted to make a comic that could tell people that it is completely okay to deviate from what is perceived as "normal." 
+
 ### Phase 2: Prototype Design
+
 ![protodesign](InjooKangImages/injookang4.png)
 
 ### Phase 3: Designing SVG Files
