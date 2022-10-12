@@ -16,6 +16,9 @@
     margin-bottom: 50px;
 }
 
+.audioControl{
+    margin: auto;
+}    
 .scenery{
 
     align-self:center;
