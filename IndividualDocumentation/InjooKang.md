@@ -11,8 +11,9 @@ The design inspiration I had was a collage of different images that delivers ecc
 
 After our first meeting, we decided to create a comic that could guide students' life in NYUAD in terms of time management and balancing. We all resonated with the idea that when we first came to college we all felt so confused in deciding what is normal and what is not. We wanted to make a comic that could tell people that it is completely okay to deviate from what is perceived as "normal." 
 
-### Phase 2: Prototype Design
 
+### Phase 2: Prototype Design
+After settling with the idea, we made a prototype design with Powerpoint to see the basic 
 ![protodesign](InjooKangImages/injookang4.png)
 
 ### Phase 3: Designing SVG Files
