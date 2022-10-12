@@ -115,7 +115,6 @@ studySit3Clicked.addEventListener("click", ()=>{
 let exitClicked = document.getElementById("Exit");
 
 exitClicked.addEventListener("click", ()=>{
-    clickSound.play();
     cheerSound.play();
     document.getElementById("Result").style.display = "block";
     document.getElementById("Exit").style.display = "none";   
