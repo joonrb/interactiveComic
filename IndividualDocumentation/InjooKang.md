@@ -13,10 +13,13 @@ After our first meeting, we decided to create a comic that could guide students'
 
 
 ### Phase 2: Prototype Design
-After settling with the idea, we made a prototype design with Powerpoint to visualize the basic design. The below picture is the wireframe of our web comic. We were inspired by video games such as Mario that have a character fixed on one side and the changing background make it look like the character is walking forward. Fixing a GIF of walking person on the bottom-left corner and moving the background panel leftward could illustrate an NYUAD student navigating through different situations. 
+After settling with the idea, we made a prototype design with Powerpoint to visualize the basic design. The below picture is the wireframe of our web comic I created. We were inspired by video games such as Mario that have a character fixed on one side and the changing background make it look like the character is walking forward. Fixing a GIF of walking person on the bottom-left corner and moving the background panel leftward could illustrate an NYUAD student navigating through different situations. 
 ![protodesign](InjooKangImages/injookang4.png)
 
 ### Phase 3: Designing SVG Files
+After confirming the wireframe design with other group members, I designed the panels for the opening, instructions, and the first two situations. The rest of the design other than image collages were kept as simple as possible to highlight the collages. To highlight the colors of the colages, we used as less colors as possible in other items such as speech bubble, ground, and the stick person. I incorporated the concept of image collage in the opening panel by using alphabet cutouts in title design. 
+
+
 ![design1](InjooKangImages/injookang5.png)
 ![design2](InjooKangImages/injookang6.png)
 
