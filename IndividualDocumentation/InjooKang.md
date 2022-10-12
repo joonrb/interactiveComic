@@ -4,17 +4,23 @@ Have you ever wondered what is considered "normal" in NYUAD? Is it normal to eat
 
 ## Process
 ### Phase 1: Idea Development
+The design inspiration I had was a collage of different images that delivers eccentric and comical mood. Before the first group meeting, I created the following moodboards to illustrate the visual I had in mind. 
 ![moodboard1](InjooKangImages/injookang1.png)
 ![moodboard2](InjooKangImages/injookang2.png)
 ![moodboard3](InjooKangImages/injookang3.png)
 
-### Phase 2: Prototype 
+### Phase 2: Prototype Design
 ![protodesign](InjooKangImages/injookang4.png)
 
-### Phase 3: 
+### Phase 3: Designing SVG Files
 ![design1](InjooKangImages/injookang5.png)
 ![design2](InjooKangImages/injookang6.png)
+
+### Phase 4: Design Realization 
+
+### Phase 5: Feedback and Discussion
+
 ## Reflection and Evaluation 
-Project Description: what is the project, what is the overall concept and theme, and what kind of experience you were striving to create.
+
 Process: How did you go about implementing the concept. Describe your role and what your contribution was.
 Reflection/Evaluation: This should bookend the initial concept and talk about whether your expectations and goals were met in the process of building the final working version.
