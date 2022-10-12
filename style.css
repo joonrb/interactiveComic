@@ -17,11 +17,13 @@
 }
 
 .audioSec{
+    display: flex;
     justify-content: center;
 }
 
 .bgmText{
     font-family: "Comic Sans";
+    padding-right: 50px;
 }
 
 .audioControl{
@@ -111,6 +113,6 @@
 .MainCharacter{
     position: absolute;
     left: 85px;
-    top: 455px;
+    top: 430px;
 }
 
