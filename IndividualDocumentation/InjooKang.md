@@ -17,17 +17,17 @@ After settling with the idea, we made a prototype design with Powerpoint to visu
 ![protodesign](InjooKangImages/injookang4.png)
 
 ### Phase 3: Designing SVG Files
-After confirming the wireframe design with other group members, I designed the panels for the opening, instructions, and the first two situations. The rest of the design other than image collages were kept as simple as possible to highlight the collages. To highlight the colors of the colages, we used as less colors as possible in other items such as speech bubble, ground, and the stick person. I incorporated the concept of image collage in the opening panel by using alphabet cutouts in title design. 
+After confirming the wireframe design with other group members, I designed the panels for the opening, instructions, and the first two situations. We constantly communicated with each other to make sure the SVG files are in the same ratio, resolution, and sytem. 
 
+The rest of the design other than image collages were kept as simple as possible to highlight the collages. To highlight the colors of the colages, we used as less colors as possible in other items such as speech bubble, ground, and the stick person. I incorporated the concept of image collage in the opening panel by using alphabet cutouts in title design. 
+
+Another specific design choice I made is the pixelated speech bubbles. As our comic is an adventure of a NYUAD student through different situations, we wanted the comic to resemble the quest-clearing type of games in which a player encounter different characters and quests throughout the journey. The pixelated speech bubbles achieved this goal by highlighting the retro, game-like feature. 
 
 ![design1](InjooKangImages/injookang5.png)
 ![design2](InjooKangImages/injookang6.png)
 
 ### Phase 4: Design Realization 
-
-### Phase 5: Feedback and Discussion
+Jun realized the SVG designs by using html, javascript and css stylesheets. We constantly communicated with Jun to fix bugs and alter SVG files as needed. After the website was completed, I reoranized the image files on the github and rewrote the paths in the HTML file. Saiki and Isha also worked on the final touches on the website such as adjusting the padding and margins. 
 
 ## Reflection and Evaluation 
-
-Process: How did you go about implementing the concept. Describe your role and what your contribution was.
-Reflection/Evaluation: This should bookend the initial concept and talk about whether your expectations and goals were met in the process of building the final working version.
+Our final comic turned out the way we initially visualized. I am truly amazed at how closely we realized our initial concept. I was worried about coding with different people as I have never experienced group coding prior to this project. However, it was an amazing experience working with my group members who were all very enthusiastic and committed. I look forward to other group projects in this class!
