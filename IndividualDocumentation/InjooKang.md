@@ -4,7 +4,7 @@ Have you ever wondered what is considered "normal" in NYUAD? Is it normal to eat
 
 ## Process
 ### Phase 1: Idea Development
-The design inspiration I had was a collage of different images that delivers eccentric and comical mood. Before the first group meeting, I created the following moodboards to illustrate the visual I had in mind to other group members. 
+The design inspiration I had was a collage of different images that delivers eccentric and comical mood. Before the first group meeting, I created the following moodboards to illustrate the visual I had in mind to other group members. Group members also liked the image collage idea so it was chosen as the main visual concept of our comic. 
 ![moodboard1](InjooKangImages/injookang1.png)
 ![moodboard2](InjooKangImages/injookang2.png)
 ![moodboard3](InjooKangImages/injookang3.png)
