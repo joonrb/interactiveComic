@@ -13,7 +13,7 @@ After our first meeting, we decided to create a comic that could guide students'
 
 
 ### Phase 2: Prototype Design
-After settling with the idea, we made a prototype design with Powerpoint to see the basic 
+After settling with the idea, we made a prototype design with Powerpoint to visualize the basic design. The below picture is the wireframe of our web comic. We were inspired by video games such as Mario that have a character fixed on one side and the changing background make it look like the character is walking forward. Fixing a GIF of walking person on the bottom-left corner and moving the background panel leftward could illustrate an NYUAD student navigating through different situations. 
 ![protodesign](InjooKangImages/injookang4.png)
 
 ### Phase 3: Designing SVG Files
