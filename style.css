@@ -22,8 +22,9 @@
 }
 
 .bgmText{
-    font-family: "Comic Sans";
+    font-family: "Comic Sans MS";
     padding-right: 50px;
+    color: purple;
 }
 
 .audioControl{
