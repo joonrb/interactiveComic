@@ -1,4 +1,4 @@
-let clickSound = new Audio("mouseClickSound.mp3");
+let clickSound = new Audio("sound/mouseClickSound.mp3");
 
 
 let dormClicked = document.getElementById("dorm");
